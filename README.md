@@ -13,5 +13,8 @@ Application is integrated with HMS Scan kit and ML kit using Flutter Cross-platf
 SmartReader is now can be downloaded from Huawei AppGallery.\
 📱App Link: https://appgallery.huawei.com/#/app/C104387727 
 
-![Main Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/Main%20Screen.png)
-![Text Scanner Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/Text%20Scanner%20Screen.png)
+![Main Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/1.png)
+![Barcode Scanner Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/2.png)
+![Barcode Result Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/3.png)
+![Text Scanner Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/4.png)
+![Text Result Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/5.png)
