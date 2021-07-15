@@ -14,8 +14,7 @@ SmartReader is now can be downloaded from Huawei AppGallery.\
 📱App Link: https://appgallery.huawei.com/#/app/C104387727 
 
 <img src="https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/1.png" width="200" height="420"/>
-![Main Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/1.png)
-![Barcode Scanner Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/2.png)
-![Barcode Result Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/3.png)
-![Text Scanner Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/4.png)
-![Text Result Screen](https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/5.png)
+<img src="https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/2.png" width="200" height="420"/>
+<img src="https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/3.png" width="200" height="420"/>
+<img src="https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/4.png" width="200" height="420"/>
+<img src="https://github.com/DulajKavinda98/Smart-Reader/blob/master/assets/images/5.png" width="200" height="420"/>
