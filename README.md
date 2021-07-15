@@ -1,16 +1,14 @@
-# smart_reader
+#SmartReader
 
-A new Flutter application.
+##QR/Barcode Scanner plus Text Reader
 
-## Getting Started
+Smart reader is an Android mobile application which could scan both texts and Barcode/ QR codes. It is a QR/Barcode Scanner plus Text Reader.🗒️🔎📲
+Application is integrated with HMS Scan kit and ML kit using Flutter Cross-platform.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Features of SmartReader App:
+ • Scan both Barcode/ QR codes
+ • Extract text from an image in Gallery or Captured    one.
+ • Copy recognized text from the image to the clipboard.
+ 
+SmartReader is now can be downloaded from Huawei AppGallery.
+📱App Link: https://appgallery.huawei.com/#/app/C104387727 
